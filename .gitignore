@@ -1,0 +1,13 @@
+/target
+*.tmp*
+*.log
+*.exe
+.env
+.env.*
+!.env.example
+.vscode
+.idea
+claude --resume *.txt
+nul
+Thumbs.db
+.DS_Store
